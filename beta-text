@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Introduction to git {
+
+# git branch --list: lists all branches
+
+# git checkout beta: creates a branch name beta
+
+# git checkout -b beta: creates a branch and switch into the branch.
+
+# git status: tells you the branch you are in
+
+# git branch alpha: creates a branch called alpha 
+
+
