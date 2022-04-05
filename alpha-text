@@ -1,0 +1,21 @@
+#!/bin/bash 
+
+# Introduction to git {
+
+# git branch --list: lists all branches
+
+# git checkout beta: creates a branch name beta
+
+# git checkout -b beta: creates a branch and switch into the branch.
+
+# git status: tells you the branch you are in
+
+# git branch alpha: creates a branch called alpha
+
+# git add .: to track a new file
+
+# gitcommit -m (add a message e.g "add git commands to alpha"): commit to add more information to the branch
+
+# git push --set-upstream origin (name of branch eg alpha): pushes the new file to git
+
+
